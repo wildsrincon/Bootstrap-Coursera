@@ -51,7 +51,7 @@ body {
   width: 90%;
 }
 
-.card-header {
+#reserve {
   background-color: orange;
   color: white;
 }
