@@ -17,7 +17,15 @@
 
 ## Before you start…
 
+Project with Bootstrap 4 in course one Specialization Full-Stack Web Development with React :
 
+### Front-End Web UI Frameworks and Tools: Bootstrap 4
+
+## How to install
+
+- Clone this repo
+- Run npm install
+- Run npm start
 
 
 
